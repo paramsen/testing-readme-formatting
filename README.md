@@ -1,6 +1,6 @@
 # Title
 
-<p align="center">
+<p align="left">
   <img alt="Demo animation" src="icon_circle.png">
 </p>
 
