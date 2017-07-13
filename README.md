@@ -1,6 +1,6 @@
 # Title
 
-<p align="left">
+<p align="center">
   <img alt="Demo animation" src="http://ivoh.org/dev/wp-content/uploads/2013/07/ChrisPalmer_w_sq-56x56.jpg">
 </p>
 
