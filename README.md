@@ -1,7 +1,7 @@
 # Title
 
 <p align="center">
-  <img alt="Demo animation" src="http://ivoh.org/dev/wp-content/uploads/2013/07/ChrisPalmer_w_sq-56x56.jpg">
+  <img alt="Demo animation" src="icon_circle.png">
 </p>
 
 __stuff stuff stuff__
