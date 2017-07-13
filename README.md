@@ -1,7 +1,7 @@
 # Title
 __stuff stuff stuff__
 
-<p style="float:left;">
+<p align="left">
   <img alt="Demo animation" src="http://ivoh.org/dev/wp-content/uploads/2013/07/ChrisPalmer_w_sq-56x56.jpg">
 </p>
 
