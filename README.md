@@ -1,7 +1,7 @@
 # Title
 
 <p align="left">
-  <img alt="Demo animation" src="icon_circle.png">
+  <img alt="Demo animation" src="icon.png">
 </p>
 
 __stuff stuff stuff__
